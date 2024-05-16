@@ -6,5 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![.](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
-
+![.](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+	
 
